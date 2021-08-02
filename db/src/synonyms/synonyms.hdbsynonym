@@ -1,0 +1,16 @@
+{
+  "PurchaseOrderItem": {
+    "target": {
+      "object": "PurchaseOrderItem",
+      "schema": "EDWP_MASTER_DATA_HDI_EDWC_MASTER_DATA_DB",
+      "database": "SYSTEMDB"
+    }
+  },
+  "PurchaseOrderHeader": {
+    "target": {
+      "object": "PurchaseOrderHeader",
+      "schema": "EDWP_MASTER_DATA_HDI_EDWC_MASTER_DATA_DB",
+      "database": "SYSTEMDB"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "SRV_EDWC_MASTER_DATA": {
+    "object_owner": {
+      "container_roles": [
+        "role_view_md#"
+      ]
+    },
+    "application_user": {
+      "container_roles": [
+        "role_view_md"
+      ]
+    }
+  }
+}
